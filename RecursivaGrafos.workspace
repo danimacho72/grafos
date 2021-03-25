@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="RecursivaGrafos" Database="" Version="10.0.0">
+  <Project Name="F" Path="F/F.project" Active="Yes"/>
+  <Project Name="Floyd" Path="Floyd/Floyd.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="F" ConfigName="Debug"/>
+      <Project Name="Floyd" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="F" ConfigName="Release"/>
+      <Project Name="Floyd" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
